@@ -7,6 +7,7 @@ This repository has samples for adding the X Pixel to your site.
 ## Samples
 
 - [Next.js](nextjs): App Router and TypeScript
+- [Next.js store](nextjs-store): an online store that sends content view, add to cart, checkout initiated, and purchase events
 
 ## Resources
 
